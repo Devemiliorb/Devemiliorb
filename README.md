@@ -14,7 +14,15 @@ Desde temprana edad, tuve una gran curiosidad por las nuevas tecnologías y ráp
 <img src="https://media.giphy.com/media/3ov9jNziFTMfzSumAw/giphy.gif" width="250">
 
 ## Mi conjunto de habilidades  
+```js
+const emiliorb{
+Frontend: [JavaScript, HTML5, CSS3, Bootstrap],
+Backend: [JavaScript, Python],
+DevOps: [Git, Bash],
+Tools: [Adobe Illustrator, Figma],
+}
 
+```
 
 
 
