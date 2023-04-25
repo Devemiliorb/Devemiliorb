@@ -23,7 +23,6 @@ Tools: [Adobe Illustrator, Figma]
 }
 ```
 ## Conectate conmigo 
-
 <div>
 <a href="https://github.com/Devemiliorb" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -40,7 +39,6 @@ Tools: [Adobe Illustrator, Figma]
 </div> 
 
 ## Proyectos
-
 <img src="https://media.giphy.com/media/3o72FkiKGMGauydfyg/giphy.gif" width="250">
 
 <div align="center">
