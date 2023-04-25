@@ -1,8 +1,7 @@
 <p align="center" width="300">
    <img align="center" width="400" src="https://user-images.githubusercontent.com/131729985/234176548-3c2b3012-38a7-4c6a-9c49-c1fa5cf78849.png" />
    <h1 align="center"> ¡Hey! Soy Emilio Rodriguez <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<em>Software Enginner at <a href="https://uinvenio.ac.cr/">Universidad Invenio</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Frontend Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+
 </em></p>
 
 Soy Emilio Rodríguez un estudiante de 19 años que cursa actualmente la carrera de Ingeniería en Tecnologías de Información y Comunicación Empresarial. Soy un apasionado de la tecnología y me enfoco en el desarrollo de aplicaciones web y móviles, así como en el diseño gráfico y web.
