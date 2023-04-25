@@ -1,6 +1,8 @@
 <p align="center" width="300">
    <img align="center" width="400" src="https://user-images.githubusercontent.com/131729985/234176548-3c2b3012-38a7-4c6a-9c49-c1fa5cf78849.png" />
    <h1 align="center">¡Hey! Soy Emiliorb<img src="[https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif](https://media2.giphy.com/media/icUEIrjnUuFCWDxFpU/giphy.gif?cid=ecf05e475ayl58v8bvmkl99il6l1zfyr3gx5bk39o6ppgbjo&rid=giphy.gif&ct=g)" width="150"></h1>
+   
+   
 </em></p>
 <p><em>Software Enginner at <a href="https://uinvenio.ac.cr/">University Invenio</a><img src="https://www.svgrepo.com/show/405749/graduation-cap.svg" width="18"></br> Frontend Developer</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
@@ -12,6 +14,7 @@ Desde temprana edad, tuve una gran curiosidad por las nuevas tecnologías y ráp
 <img src="https://media.giphy.com/media/3ov9jNziFTMfzSumAw/giphy.gif" width="250">
 
 ## My Skill Set  
+
 
 ### DevOps  
 <div>  
@@ -36,7 +39,8 @@ Desde temprana edad, tuve una gran curiosidad por las nuevas tecnologías y ráp
 </div>
 
 ## Connect with me  
-<br>
+
+
 <div>
 <a href="https://github.com/Devemiliorb" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -53,4 +57,6 @@ Desde temprana edad, tuve una gran curiosidad por las nuevas tecnologías y ráp
 </div>  
 
 ## Proyectos:
+
+
 <img src="https://media.giphy.com/media/3o72FkiKGMGauydfyg/giphy.gif" width="250">
