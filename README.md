@@ -36,6 +36,7 @@ Desde temprana edad, tuve una gran curiosidad por las nuevas tecnologías y ráp
 </div>
 
 ## Connect with me  
+<br>
 <div>
 <a href="https://github.com/Devemiliorb" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
