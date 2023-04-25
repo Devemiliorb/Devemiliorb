@@ -12,9 +12,6 @@ Desde temprana edad, tuve una gran curiosidad por las nuevas tecnologías y ráp
 <img src="https://media.giphy.com/media/3ov9jNziFTMfzSumAw/giphy.gif" width="250">
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-
 
 ### Frontend  
 <div align="center">  
@@ -46,7 +43,7 @@ Desde temprana edad, tuve una gran curiosidad por las nuevas tecnologías y ráp
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
 </div>
 
-</td></tr></table>  
+
  
 
 
