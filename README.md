@@ -3,6 +3,15 @@
    <h1 align="center">¡Hey! Soy emiliorb👋🏼</h1>
 </p>
 
+I am Emilio Rodriguez, a 19-year-old student currently pursuing a degree in Information and Communication Technology Engineering for Business. I am passionate about
+
+technology and focus on developing web and mobile applications as well as graphic and web design.
+
+From a young age, I had a great curiosity for new technologies and quickly discovered an interest in the world of programming. I have always been fascinated by how
+
+applications and websites can improve people's lives and make businesses operate more efficiently.
+
+
 ```js
 const emiliorb{
 pronouns: "he" | "him"
