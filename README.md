@@ -17,7 +17,7 @@ tools: [Bootstrap, Git, Adobe Illustrator, Figma]
 
 ```
 ### Puedes encontrarme en:
-- [Blog](#)
+- [Blog](#) Próximamente...
 - [Twitter](https://twitter.com/Emiliorb04)
 - [Linkedin](https://www.linkedin.com/in/emilio-rodriguez-brice%C3%B1o-850a6a26a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BfyXmrC6PTs2trLitVwIs5A%3D%3D)
 - [Instagram](https://www.instagram.com/_emiliorb/)
