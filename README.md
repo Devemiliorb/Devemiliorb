@@ -12,9 +12,10 @@ Desde temprana edad, tuve una gran curiosidad por las nuevas tecnologías y ráp
 <img src="https://media.giphy.com/media/3ov9jNziFTMfzSumAw/giphy.gif" width="250">
 
 ## My Skill Set  
-
 <table><tr><td valign="top" width="33%">
-   
+
+
+
 ### Frontend  
 <div align="center">  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
@@ -47,6 +48,27 @@ Desde temprana edad, tuve una gran curiosidad por las nuevas tecnologías y ráp
 
 </td></tr></table>  
 
+<br/>  
+
+
+## Connect with me  
+<div align="center">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/emilio-rodriguez-brice%C3%B1o-850a6a26a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bj%2BKnMGJ5Q6ijv06izAc6vg%3D%3D" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/https://www.instagram.com/_emiliorb/" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
+<a href="https://github.com/Devemiliorb" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/https://twitter.com/Emiliorb04" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
+
+<br/>   
 
 ## Connect with me  
 <div align="center">
