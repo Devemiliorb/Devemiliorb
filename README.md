@@ -3,8 +3,9 @@
    <h1 align="center">¡Hey! Soy emiliorb👋🏼</h1>
 </p>
 
-I am Emilio Rodriguez, a 19-year-old student currently pursuing a degree in Information and Communication Technology Engineering for Business. I am passionate about technology and focus on developing web and mobile applications as well as graphic and web design.
-From a young age, I had a great curiosity for new technologies and quickly discovered an interest in the world of programming. I have always been fascinated by how applications and websites can improve people's lives and make businesses operate more efficiently.
+Soy Emilio Rodríguez un estudiante de 19 años que cursa actualmente la carrera de Ingeniería en Tecnologías de Información y Comunicación Empresarial. Soy un apasionado de la tecnología y me enfoco en el desarrollo de aplicaciones web y móviles, así como en el diseño gráfico y web.
+
+Desde temprana edad, tuve una gran curiosidad por las nuevas tecnologías y rápidamente descubri interés por el mundo de la programación. Siempre ha estado fascinado por cómo las aplicaciones y los sitios web pueden mejorar la vida de las personas y hacer que las empresas funcionen de manera más eficiente.
 
 ### Skills💻:
 ```js
