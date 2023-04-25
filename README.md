@@ -13,9 +13,6 @@ Desde temprana edad, tuve una gran curiosidad por las nuevas tecnologías y ráp
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
-
-
-
 ### Frontend  
 <div align="center">  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
@@ -68,5 +65,5 @@ Desde temprana edad, tuve una gran curiosidad por las nuevas tecnologías y ráp
 </a>  
 </div>  
 
-### Proyectos:
+## Proyectos:
 <img src="https://media.giphy.com/media/3o72FkiKGMGauydfyg/giphy.gif" width="250">
