@@ -1,4 +1,4 @@
-### Hi, I’m Emilio👋👨‍💻
+### Hi, I’m Emilio👋🏼🧑🏻‍💻
 
 <!--
 **Devemiliorb/Devemiliorb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
