@@ -8,8 +8,9 @@
 Soy Emilio Rodríguez un estudiante de 19 años que cursa actualmente la carrera de Ingeniería en Tecnologías de Información y Comunicación Empresarial. Soy un apasionado de la tecnología y me enfoco en el desarrollo de aplicaciones web y móviles, así como en el diseño gráfico y web.
 
 Desde temprana edad, tuve una gran curiosidad por las nuevas tecnologías y rápidamente descubri interés por el mundo de la programación. Siempre he estado fascinado por cómo las aplicaciones y los sitios web pueden mejorar la vida de las personas y hacer que las empresas funcionen de manera más eficiente.
-
+<div align="center" > 
 <img src="https://media.giphy.com/media/3ov9jNziFTMfzSumAw/giphy.gif" width="250">
+</div>
 
 ## Mi conjunto de habilidades  
 ```js
