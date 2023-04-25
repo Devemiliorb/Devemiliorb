@@ -7,7 +7,7 @@ Soy Emilio Rodríguez un estudiante de 19 años que cursa actualmente la carrera
 
 Desde temprana edad, tuve una gran curiosidad por las nuevas tecnologías y rápidamente descubri interés por el mundo de la programación. Siempre ha estado fascinado por cómo las aplicaciones y los sitios web pueden mejorar la vida de las personas y hacer que las empresas funcionen de manera más eficiente.
 
-### Skills💻:
+### Mis habilidades:
 ```js
 const emiliorb{
 pronouns: "he" | "him"
@@ -16,7 +16,7 @@ tools: [Bootstrap, Git, Adobe Illustrator, Figma]
 }
 
 ```
-### You can find me 🌍:
+### Puedes encontrarme en:
 - [Blog](#)
 - [Twitter](https://twitter.com/Emiliorb04)
 - [Linkedin](https://www.linkedin.com/in/emilio-rodriguez-brice%C3%B1o-850a6a26a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BfyXmrC6PTs2trLitVwIs5A%3D%3D)
