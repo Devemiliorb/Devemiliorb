@@ -1,4 +1,4 @@
-<h1 align="center">¡Hey 👋! Soy midudev 👨🏻‍💻</h1>
+<h1 align="center">¡Hey 🧑🏻‍💻! Soy emiliorb 🧑🏻‍💻</h1>
 
 ```js
 const emiliorb = {
