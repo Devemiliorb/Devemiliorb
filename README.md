@@ -15,7 +15,7 @@ Desde temprana edad, tuve una gran curiosidad por las nuevas tecnologías y ráp
 
 ## Mi conjunto de habilidades  
 ```js
-const emiliorb{
+const emiliorb = {
 Frontend: [JavaScript, HTML5, CSS3, Bootstrap],
 Backend: [JavaScript, Python],
 DevOps: [Git, Bash],
