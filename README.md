@@ -1,5 +1,6 @@
 <p align="center" width="300">
-   <img align="center" width="200" src="https://user-images.githubusercontent.com/1561955/106762302-fda9de00-6635-11eb-99be-3ef744e60c0e.png" />
+
+   <img align="center" width="200" src="https://user-images.githubusercontent.com/131729985/234163103-270c837b-8107-4535-be3e-50084671076c.jpeg" />
    <h3 align="center">¡Hey 👋! Soy midudev 👨🏻‍💻</h3>
 </p>
 
