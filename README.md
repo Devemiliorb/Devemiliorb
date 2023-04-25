@@ -40,7 +40,7 @@ Tools: [Adobe Illustrator, Figma]
 ## Proyectos
 
 <img src="https://media.giphy.com/media/3o72FkiKGMGauydfyg/giphy.gif" width="250">
-<br/> 
+
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
 </div>  
