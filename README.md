@@ -46,8 +46,6 @@ Desde temprana edad, tuve una gran curiosidad por las nuevas tecnologías y ráp
 </td></tr></table>  
 
 <br/>  
-```
-
 
 ## Connect with me  
 <div align="center">
