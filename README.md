@@ -22,8 +22,7 @@ DevOps: [Git, Bash],
 Tools: [Adobe Illustrator, Figma]
 }
 ```
-## Conectate conmigo 
-<div>
+## Conectate conmigo <div>
 <a href="https://github.com/Devemiliorb" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a><br/>   
@@ -35,8 +34,7 @@ Tools: [Adobe Illustrator, Figma]
 </a><br/>
 <a href="https://instagram.com/https://www.instagram.com/_emiliorb/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a> 
-</div> 
+</a> </div> 
 
 ## Proyectos
 <img src="https://media.giphy.com/media/3o72FkiKGMGauydfyg/giphy.gif" width="250">
