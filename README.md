@@ -1,6 +1,9 @@
 <p align="center" width="300">
    <img align="center" width="400" src="https://user-images.githubusercontent.com/131729985/234176548-3c2b3012-38a7-4c6a-9c49-c1fa5cf78849.png" />
-   <h1 align="center">¡Hey! Soy emiliorb👋🏼</h1>
+   <h2> Hi, I'm Thai Braga! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<p><em>Software Enginner at <a href="http://www.unb.br">University of Brasilia</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 </p>
 
 Soy Emilio Rodríguez un estudiante de 19 años que cursa actualmente la carrera de Ingeniería en Tecnologías de Información y Comunicación Empresarial. Soy un apasionado de la tecnología y me enfoco en el desarrollo de aplicaciones web y móviles, así como en el diseño gráfico y web.
@@ -17,7 +20,7 @@ tools: [Bootstrap, Git, Adobe Illustrator, Figma]
 
 ```
 ### Puedes encontrarme en:
-- [Blog](#) Próximamente...
+- [Blog](#) (Próximamente...)
 - [Twitter](https://twitter.com/Emiliorb04)
 - [Linkedin](https://www.linkedin.com/in/emilio-rodriguez-brice%C3%B1o-850a6a26a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BfyXmrC6PTs2trLitVwIs5A%3D%3D)
 - [Instagram](https://www.instagram.com/_emiliorb/)
