@@ -1,16 +1,17 @@
 ### Hi, I’m Emilio👋🏼🧑🏻‍💻
 
-<!--
-**Devemiliorb/Devemiliorb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```js
+const emiliorb = {
+pronouns: "he" | "him",
+code: [JavaScript, HTML, CSS]
+tools: [Bootstrap, Git]
+}
+```
 
-Here are some ideas to get you started:
+You can find me 🌎:
+-[Blog](#)
+-[Linkedin](https://www.linkedin.com/in/emilio-rodriguez-brice%C3%B1o-850a6a26a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bt0ZWzvnPSQGNakHasZRCww%3D%3D)
+-[Twitter](https://twitter.com/Emiliorb04)
+-[Instagram](https://www.instagram.com/_emiliorb/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
