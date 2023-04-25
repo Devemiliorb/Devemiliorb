@@ -34,7 +34,6 @@ Desde temprana edad, tuve una gran curiosidad por las nuevas tecnologías y ráp
 <a href="https://instagram.com/https://www.instagram.com/_emiliorb/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a> 
-</div>  
-## Proyectos: 
+</div> 
 
-<img src="https://media.giphy.com/media/3o72FkiKGMGauydfyg/giphy.gif" width="250">
+## Proyectos: <img src="https://media.giphy.com/media/3o72FkiKGMGauydfyg/giphy.gif" width="250">
