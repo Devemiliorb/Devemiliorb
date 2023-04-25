@@ -36,4 +36,4 @@ Desde temprana edad, tuve una gran curiosidad por las nuevas tecnologías y ráp
 </a> 
 </div> 
 
-## Proyectos: <img src="https://media.giphy.com/media/3o72FkiKGMGauydfyg/giphy.gif" width="250">
+## Proyectos:<br/> <img src="https://media.giphy.com/media/3o72FkiKGMGauydfyg/giphy.gif" width="250">
