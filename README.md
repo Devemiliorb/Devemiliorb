@@ -29,7 +29,7 @@ Mi objetivo es no solo registrar mi progreso, sino también inspirar a otros que
 
 <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="250">
 
-[¡Haz clic aquí para ir!](https://mi-sitio-web.com)
+[¡Haz clic aquí para ir!](https://github.com/Devemiliorb/Frontend_Developer)
 
 ## Proyectos
 <img src="https://media.giphy.com/media/3o72FkiKGMGauydfyg/giphy.gif" width="250">
