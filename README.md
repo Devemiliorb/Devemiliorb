@@ -29,7 +29,7 @@ Mi objetivo es no solo registrar mi progreso, sino también inspirar a otros que
 
 <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="250">
 
-[¡Haz clic aquí para ir a mi Repositorio de Aprendizaje Frontend!](https://mi-sitio-web.com)
+[¡Haz clic aquí para ir!](https://mi-sitio-web.com)
 
 ## Proyectos
 <img src="https://media.giphy.com/media/3o72FkiKGMGauydfyg/giphy.gif" width="250">
