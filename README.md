@@ -25,7 +25,7 @@ Tools: [Adobe Illustrator, Figma]
 
 Este repositorio es donde iré subiendo mi progreso y mi ruta de aprendizaje hacia mi objetivo de convertirme en un desarrollador frontend completo. Aquí encontrarás recursos, proyectos y cualquier cosa que esté aprendiendo en mi camino.
 
-Mi objetivo es no solo registrar mi progreso, sino también inspirar a otros que estén en la misma ruta de aprendizaje. ¡Espero que encuentres algo útil aquí!
+Mi objetivo no solo registrar mi progreso, sino también inspirar a otros que estén en la misma ruta de aprendizaje. ¡Espero que encuentres algo útil aquí!
 
 <img src="https://media.giphy.com/media/Vz3K2SHhpdgNq/giphy.gif" width="250">
 
