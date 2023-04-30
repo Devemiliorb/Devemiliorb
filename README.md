@@ -9,6 +9,15 @@ Soy Emilio Rodríguez un estudiante de 19 años que cursa actualmente la carrera
 
 Desde temprana edad, tuve una gran curiosidad por las nuevas tecnologías y rápidamente descubri interés por el mundo de la programación. Siempre he estado fascinado por cómo las aplicaciones y los sitios web pueden mejorar la vida de las personas y hacer que las empresas funcionen de manera más eficiente.
 
+## Repositorio de Aprendizaje Frontend
+
+Este repositorio es donde iré subiendo mi progreso y mi ruta de aprendizaje hacia mi objetivo de convertirme en un desarrollador frontend completo. Aquí encontrarás recursos, proyectos y cualquier cosa que esté aprendiendo en mi camino.
+
+Mi objetivo es no solo registrar mi progreso, sino también inspirar a otros que estén en la misma ruta de aprendizaje. ¡Espero que encuentres algo útil aquí!
+
+<img src="https://media.giphy.com/media/JyxdzuAaxZnPH7TyRd/giphy-downsized-large.gif" width="250">
+
+[¡Haz clic aquí para ir a mi Repositorio de Aprendizaje Frontend!](https://mi-sitio-web.com)
 
 <img src="https://media.giphy.com/media/3ov9jNziFTMfzSumAw/giphy.gif" width="250">
 
@@ -35,16 +44,6 @@ Tools: [Adobe Illustrator, Figma]
 <a href="https://instagram.com/https://www.instagram.com/_emiliorb/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a> </div> 
-
-# Repositorio de Aprendizaje Frontend
-
-Este repositorio es donde iré subiendo mi progreso y mi ruta de aprendizaje hacia mi objetivo de convertirme en un desarrollador frontend completo. Aquí encontrarás recursos, proyectos y cualquier cosa que esté aprendiendo en mi camino.
-
-Mi objetivo es no solo registrar mi progreso, sino también inspirar a otros que estén en la misma ruta de aprendizaje. ¡Espero que encuentres algo útil aquí!
-
-<img src="https://media.giphy.com/media/JyxdzuAaxZnPH7TyRd/giphy-downsized-large.gif" width="250">
-
-[¡Haz clic aquí para ir a mi Repositorio de Aprendizaje Frontend!](https://mi-sitio-web.com)
 
 ## Proyectos
 <img src="https://media.giphy.com/media/3o72FkiKGMGauydfyg/giphy.gif" width="250">
