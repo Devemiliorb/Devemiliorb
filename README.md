@@ -27,7 +27,7 @@ Este repositorio es donde iré subiendo mi progreso y mi ruta de aprendizaje hac
 
 Mi objetivo es no solo registrar mi progreso, sino también inspirar a otros que estén en la misma ruta de aprendizaje. ¡Espero que encuentres algo útil aquí!
 
-<img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="250">
+<img src="https://media.giphy.com/media/Vz3K2SHhpdgNq/giphy.gif" width="250">
 
 [¡Haz clic aquí para ir!](https://github.com/Devemiliorb/Frontend_Developer)
 
