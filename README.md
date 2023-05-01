@@ -31,9 +31,6 @@ Mi objetivo no solo registrar mi progreso, sino también inspirar a otros que es
 
 [¡Haz clic aquí para ir!](https://github.com/Devemiliorb/Frontend_Developer)
 
-## Proyectos
-<img src="https://media.giphy.com/media/3o72FkiKGMGauydfyg/giphy.gif" width="250">
-
 ## Repositorio Configuración VsCode
 
 En este repositorio, encontrarás mi archivo settings.json que contiene mi configuración personalizada de [Visual Studio Code](https://code.visualstudio.com/) para optimizar mi flujo de trabajo de desarrollo frontend. 
@@ -42,6 +39,9 @@ También he incluido una lista de extensiones que considero esenciales para cual
 
 
 [¡Haz clic aquí para ir!](https://github.com/Devemiliorb/ConfigVscode)
+
+## Proyectos
+<img src="https://media.giphy.com/media/3o72FkiKGMGauydfyg/giphy.gif" width="250">
 
 <a href="https://github.com/Devemiliorb" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
