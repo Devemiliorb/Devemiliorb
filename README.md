@@ -37,7 +37,8 @@ En este repositorio, encontrarás mi archivo settings.json que contiene mi confi
 
 También he incluido una lista de extensiones que considero esenciales para cualquier desarrollador frontend. 
 
-<img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" alt="Texto alternativo de la imagen" width="50">
+<img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" alt="Texto alternativo de la imagen" width="40">
+
 [¡Haz clic aquí para ir!](https://github.com/Devemiliorb/ConfigVscode)
 
 ## Proyectos
